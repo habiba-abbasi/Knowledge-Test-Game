@@ -1,0 +1,12 @@
+=>HINTS:
+1. A Water body
+2. 75% Land 
+3. 25% Sea
+4. less than 5 alphabets
+
+
+
+
+
+Guess the Water Body!
+

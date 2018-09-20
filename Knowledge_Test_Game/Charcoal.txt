@@ -1,0 +1,12 @@
+=>HINTS:
+1. Black at buy time
+2. Red at use 
+3. Gray when wasted
+4. 8 alphabets
+
+
+
+
+
+Guess the thing!
+

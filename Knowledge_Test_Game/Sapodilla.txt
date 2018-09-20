@@ -1,0 +1,12 @@
+=>HINTS:
+1. A Fruit
+2. Mustard color
+3. Kiwi
+4. 9 alphabets with one repeated
+
+
+
+
+
+Guess the Fruit!
+

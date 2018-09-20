@@ -1,0 +1,12 @@
+=>HINTS:
+1. A Continent
+2. Starts and ends at 'A'
+3. Kengaru
+4. more than 6 less than 10 alphabets
+
+
+
+
+
+Guess the Animal!
+

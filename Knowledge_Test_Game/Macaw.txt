@@ -1,0 +1,12 @@
+=>HINTS:
+1. A Bird
+2. 50 years of life span 
+3. Brazil
+4. not less than 4 but greater than 4 alphabets
+ 
+
+
+
+
+Guess the Bird!
+

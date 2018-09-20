@@ -1,0 +1,12 @@
+=>HINTS:
+1. A continent
+2. Starts and ends with 'a' 
+3. Kengaru
+4. more than 6 less than 10 alphabets
+
+
+
+
+
+Guess the Continent!
+
